@@ -1,0 +1,16 @@
+sale_date,dish_name,dish_id,quantity_sold,revenue
+2024-05-01,Chicken Biryani,1,15,450.00
+2024-05-01,Paneer Butter Masala,2,12,380.00
+2024-05-01,Masala Dosa,3,8,420.00
+2024-05-02,Chicken Biryani,1,18,540.00
+2024-05-02,Paneer Butter Masala,2,14,448.00
+2024-05-02,Masala Dosa,3,10,525.00
+2024-05-03,Chicken Biryani,1,12,360.00
+2024-05-03,Paneer Butter Masala,2,11,352.00
+2024-05-03,Masala Dosa,3,9,504.00
+2024-05-04,Chicken Biryani,1,22,660.00
+2024-05-04,Paneer Butter Masala,2,18,576.00
+2024-05-04,Masala Dosa,3,12,672.00
+2024-05-05,Chicken Biryani,1,19,570.00
+2024-05-05,Paneer Butter Masala,2,15,480.00
+2024-05-05,Masala Dosa,3,11,616.00

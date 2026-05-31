@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pandas
+scikit-learn
+numpy
+python-multipart
+pytest
+httpx
+python-dotenv
+openpyxl
+xlrd
+firebase-admin

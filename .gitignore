@@ -1,0 +1,37 @@
+# Local secrets
+.env
+.env.*
+!.env.example
+backend/.env
+flutter_app/.env
+*firebase-adminsdk*.json
+*serviceAccount*.json
+
+# Local databases and uploaded sample/runtime data
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Flutter/Dart
+flutter_app/.dart_tool/
+flutter_app/build/
+flutter_app/.flutter-plugins-dependencies
+
+# IDE/system
+.vscode/
+.idea/
+.DS_Store
+*.log
+
+# Local sample sales exports
+sample_sales.csv
+smartmenu_sales_data_*.csv
+
+# Nested generated Android build output
+flutter_app/android/build/
